@@ -2,9 +2,22 @@
 Webfonts for Indic Languages
 The fonts have been derived from SakalBharati font provided at the below location:
 
-[link](http://cdac.in/index.aspx?id=dl_sakal_bharati_font)
+http://cdac.in/index.aspx?id=dl_sakal_bharati_font
     
 Fonts in ttf and Woff2 format. Since ttf fonts are large in size they are relatively hard to use directly on web. So a woff2 format of the same fonts is available for use in the web. woff2 is a compressed versino of the ttf and woff.
+
+##Usage
+```css
+@font-face {
+    font-family: 'SakalBharati';    //replace SakarBharati with your custom name.
+}
+
+div {
+    font-family: 'SakalBharati';     //the name that you've used in the @font-face
+    font-style: normal;
+    font-weight: normal;
+}
+```
 
 
 ##Sakal Bharati
@@ -23,3 +36,4 @@ By making use of this font, website and/or application designing for Indian lang
 
 ###License
 OFL Lincese is applied to the above files. Please read LICENSE_OFL.txt for more details.
+

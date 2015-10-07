@@ -20,7 +20,7 @@ div {
     font-weight: normal;
 }
 ```
-
+You may need to check support for @font-face in respective browser pages.
 
 ##Sakal Bharati
 is a Unicode based Open Type font which includes 13 scripts in one font i.e. Assamese, Bengali, Devanagari, Gujarati, Kannada Malayalam, Meetei Mayek, Oriya, Ol Chiki, Punjabi, Telugu, Tamil & Urdu. It is a Monothick font wherein the Glyphs have equal thickness of the horizontal and vertical stems. The Font has same X height for all 13 scripts, which caters to almost all the 22 scheduled languages of India. It is a single font having more than 3698 glyphs. The glyphs across the languages are designed to have matching styles including English.
@@ -39,3 +39,13 @@ By making use of this font, website and/or application designing for Indian lang
 ###License
 OFL Lincese is applied to the above files. Please read LICENSE_OFL.txt for more details.
 
+###Warranty
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.

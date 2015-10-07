@@ -1,4 +1,4 @@
-# IndicWoof2
+# IndicWoff2
 Webfonts for Indic Languages
 The fonts have been derived from SakalBharati font provided at the below location:
 

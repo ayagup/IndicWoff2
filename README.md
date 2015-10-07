@@ -20,3 +20,6 @@ By making use of this font, website and/or application designing for Indian lang
 *Being Monothick, it is easily legible.
 *Pleasing to the eye and can be deployed in a wide range of applications where readability is of prime importance.
 *Supports Rupee Symbol.
+
+###License
+OFL Lincese is applied to the above files. Please read LICENSE_OFL.txt for more details.

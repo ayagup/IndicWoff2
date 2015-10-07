@@ -7,9 +7,11 @@ http://cdac.in/index.aspx?id=dl_sakal_bharati_font
 Fonts in ttf and Woff2 format. Since ttf fonts are large in size they are relatively hard to use directly on web. So a woff2 format of the same fonts is available for use in the web. woff2 is a compressed versino of the ttf and woff.
 
 ##Usage
+woff2 can be used in a webpage/website by specifying the URL to woff2 file in css. Ex:
 ```css
 @font-face {
     font-family: 'SakalBharati';    //replace SakarBharati with your custom name.
+    src: url('RELATIVE-PATH-TO-WOFF2-FILE-FROM-CSS-FILE') format('woff2');
 }
 
 div {
